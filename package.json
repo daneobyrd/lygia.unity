@@ -1,0 +1,20 @@
+{
+  "name": "pgv.lygia.unity",
+  "version": "1.1.0",
+  "displayName": "LYGIA Shader Library",
+  "description": "LYGIA is a shader library of reusable functions that can be include easily on your projects. LYGIA is very granular, designed for reusability, performance and flexibility. And can be easily be added to any projects and frameworks.",
+  "unity": "2020.3",
+  "dependencies": {},
+  "author": {
+    "name": "Patricio Gonzalez Vivo and Contributors",
+    "email": "patriciogonzalezvivo@gmail.com",
+    "url": "https://lygia.xyz"
+  },
+  "samples": [
+    {
+      "displayName": "Examples",
+      "description": "HLSL examples of how to use LYGIA Shader Library on Unity.",
+      "path": "Samples~/Examples"
+    }
+  ]
+}
